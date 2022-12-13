@@ -2,7 +2,7 @@
   "name": "discord-welcome-message-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/gablsl1/discord-welcome-bot#readme",
   "dependencies": {
-    "discord.js": "^14.7.1"
-  },
-  "devDependencies": {
-    "eslint": "^8.29.0"
+    "discord.js": "^12.5.3"
   }
 }
